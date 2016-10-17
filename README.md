@@ -1,6 +1,7 @@
  # 微信小程序 实战教程（全民k歌）
 
-> 官方文档：https://mp.weixin.qq.com/debug/wxadoc/dev/index.html
+> for Dreamtech------文哥
+>小编，你出来，明明有图的好吧，坑死本宝宝了-_-
 
 ## Demo 预览
 
