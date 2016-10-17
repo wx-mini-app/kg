@@ -6,9 +6,9 @@
 
 >坑死本宝宝了-_-  
 
->亲们点击下方 View all of README.md 即可查看  
+>亲们点击下方View all of README.md查看效果    
 
->前方2M 动图预警
+>前方2M动图预警
 
 
 ## Demo 预览
